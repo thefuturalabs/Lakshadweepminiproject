@@ -21,3 +21,21 @@
  Ensure Flutter SDK is installed and configured properly.
  
  Run the project using flutter run command in the terminal.
+
+
+ ## # 2D Tic Tac Toe Game using Flutter
+### Introduction
+This project is a simple implementation of the classic Tic Tac Toe game using Flutter, a cross-platform UI toolkit developed by Google. The game is designed to be played on a 2D grid, where two players take turns marking spaces with their respective symbols, usually 'X' and 'O', until one player wins by getting three of their symbols in a row, column, or diagonal, or until the grid is full and the game ends in a draw.
+
+### Features
+2D grid layout for gameplay.
+
+Supports two players.
+
+Marks spaces with 'X' and 'O'.
+
+Determines the winner or declares a draw.
+
+Simple and intuitive user interface.
+
+Compatible with both iOS and Android devices.
