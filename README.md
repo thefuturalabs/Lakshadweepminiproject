@@ -39,3 +39,18 @@ Determines the winner or declares a draw.
 Simple and intuitive user interface.
 
 Compatible with both iOS and Android devices.
+
+### Usage
+Launch the application on your emulator or device.
+
+The game board will be displayed with empty grid spaces.
+
+Player 1 starts the game by tapping on an empty grid space to mark it with 'X'.
+
+Player 2 takes their turn by tapping on another empty grid space to mark it with 'O'.
+
+Players continue taking turns until one player wins or the game ends in a draw.
+
+The game will display a message indicating the winner or if it's a draw.
+
+To start a new game, simply restart the application.
