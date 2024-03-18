@@ -1,16 +1,11 @@
-# tic_tac_game
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Requirements
+ Flutter SDK
+ Dart programming language
+ Android Studio / Visual Studio Code (recommended IDEs)
+ Emulator or physical device for testing
+## Installation
+ Clone or download the repository to your local machine.
+ Open the project in your preferred IDE (Android Studio or Visual Studio Code).
+ Connect an emulator or a physical device to your development environment.
+ Ensure Flutter SDK is installed and configured properly.
+ Run the project using flutter run command in the terminal.
