@@ -1,4 +1,4 @@
-### Repository Of Mini Projects Using Flutter
+# Repository Of Mini Projects Using Flutter
 ## Requirements
  Flutter SDK
  
