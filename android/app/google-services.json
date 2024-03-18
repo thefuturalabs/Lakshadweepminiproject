@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "974240745637",
+    "project_id": "gallry-83737",
+    "storage_bucket": "gallry-83737.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974240745637:android:5c4618120519df90f5e54c",
+        "android_client_info": {
+          "package_name": "com.example.newproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDU4KqzL5_Ch6k2p5QmOWEc5kcKTgulvbk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
